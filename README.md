@@ -1,8 +1,9 @@
 Hi, I’m agwebb
 
-I’m interested in python, RARS assembly, C, and Java
+I’m interested in Python, RARS assembly, C, C++, and Java
+As for other subjects I enjoy mechatronics in all of it's subfields such as 3d model/cad, and electrical design.
 
-I’m currently learning RARS assembly & C
+I’m currently learning Python & C++
 
 How to reach me andrewgrayweb@gmail.com
 
